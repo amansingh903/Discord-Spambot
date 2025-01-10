@@ -1,2 +1,2 @@
 # Discord-Spambot
-Simple discord spambot made in python.
+A simple discord spambot made in python (supports one account)
