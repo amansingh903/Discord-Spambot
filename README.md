@@ -3,7 +3,7 @@
 > **Warning:** Self-bots are against Discord's Terms of Service. Using this bot can result in account termination. This project is for educational purposes only.
 
 ## Features
-- Runs multiple Discord accounts as self-bots
+- Runs MULTIPLE Discord accounts as self-bots
 - Sends random spam messages to a specified channel
 - Minimal debugging to show when and why accounts stop
 
